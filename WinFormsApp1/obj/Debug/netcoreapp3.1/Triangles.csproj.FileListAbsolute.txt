@@ -1,0 +1,16 @@
+C:\Users\anyur\Documents\prog\C#\WinFormsApp1\bin\Debug\netcoreapp3.1\Triangles.exe
+C:\Users\anyur\Documents\prog\C#\WinFormsApp1\bin\Debug\netcoreapp3.1\Triangles.deps.json
+C:\Users\anyur\Documents\prog\C#\WinFormsApp1\bin\Debug\netcoreapp3.1\Triangles.runtimeconfig.json
+C:\Users\anyur\Documents\prog\C#\WinFormsApp1\bin\Debug\netcoreapp3.1\Triangles.runtimeconfig.dev.json
+C:\Users\anyur\Documents\prog\C#\WinFormsApp1\bin\Debug\netcoreapp3.1\Triangles.dll
+C:\Users\anyur\Documents\prog\C#\WinFormsApp1\bin\Debug\netcoreapp3.1\Triangles.pdb
+C:\Users\anyur\Documents\prog\C#\WinFormsApp1\obj\Debug\netcoreapp3.1\Triangles.csproj.AssemblyReference.cache
+C:\Users\anyur\Documents\prog\C#\WinFormsApp1\obj\Debug\netcoreapp3.1\Triangles.Form1.resources
+C:\Users\anyur\Documents\prog\C#\WinFormsApp1\obj\Debug\netcoreapp3.1\Triangles.csproj.GenerateResource.cache
+C:\Users\anyur\Documents\prog\C#\WinFormsApp1\obj\Debug\netcoreapp3.1\Triangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anyur\Documents\prog\C#\WinFormsApp1\obj\Debug\netcoreapp3.1\Triangles.AssemblyInfoInputs.cache
+C:\Users\anyur\Documents\prog\C#\WinFormsApp1\obj\Debug\netcoreapp3.1\Triangles.AssemblyInfo.cs
+C:\Users\anyur\Documents\prog\C#\WinFormsApp1\obj\Debug\netcoreapp3.1\Triangles.csproj.CoreCompileInputs.cache
+C:\Users\anyur\Documents\prog\C#\WinFormsApp1\obj\Debug\netcoreapp3.1\Triangles.dll
+C:\Users\anyur\Documents\prog\C#\WinFormsApp1\obj\Debug\netcoreapp3.1\Triangles.pdb
+C:\Users\anyur\Documents\prog\C#\WinFormsApp1\obj\Debug\netcoreapp3.1\Triangles.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\anyur\Documents\prog\C#\Figures\bin\Debug\netcoreapp3.1\Figures.exe
+C:\Users\anyur\Documents\prog\C#\Figures\bin\Debug\netcoreapp3.1\Figures.deps.json
+C:\Users\anyur\Documents\prog\C#\Figures\bin\Debug\netcoreapp3.1\Figures.runtimeconfig.json
+C:\Users\anyur\Documents\prog\C#\Figures\bin\Debug\netcoreapp3.1\Figures.runtimeconfig.dev.json
+C:\Users\anyur\Documents\prog\C#\Figures\bin\Debug\netcoreapp3.1\Figures.dll
+C:\Users\anyur\Documents\prog\C#\Figures\bin\Debug\netcoreapp3.1\Figures.pdb
+C:\Users\anyur\Documents\prog\C#\Figures\obj\Debug\netcoreapp3.1\Figures.csproj.AssemblyReference.cache
+C:\Users\anyur\Documents\prog\C#\Figures\obj\Debug\netcoreapp3.1\Figures.Form1.resources
+C:\Users\anyur\Documents\prog\C#\Figures\obj\Debug\netcoreapp3.1\Figures.csproj.GenerateResource.cache
+C:\Users\anyur\Documents\prog\C#\Figures\obj\Debug\netcoreapp3.1\Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anyur\Documents\prog\C#\Figures\obj\Debug\netcoreapp3.1\Figures.AssemblyInfoInputs.cache
+C:\Users\anyur\Documents\prog\C#\Figures\obj\Debug\netcoreapp3.1\Figures.AssemblyInfo.cs
+C:\Users\anyur\Documents\prog\C#\Figures\obj\Debug\netcoreapp3.1\Figures.csproj.CoreCompileInputs.cache
+C:\Users\anyur\Documents\prog\C#\Figures\obj\Debug\netcoreapp3.1\Figures.dll
+C:\Users\anyur\Documents\prog\C#\Figures\obj\Debug\netcoreapp3.1\Figures.pdb
+C:\Users\anyur\Documents\prog\C#\Figures\obj\Debug\netcoreapp3.1\Figures.genruntimeconfig.cache
